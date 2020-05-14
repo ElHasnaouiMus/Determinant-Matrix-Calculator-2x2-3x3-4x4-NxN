@@ -1,4 +1,4 @@
-# Determinant-Matrix-Calculator-2x2-3x3-4x4-NxN
+# Determinant-Matrix-Calculator-2x2-3x3-4x4-NxN Using C language
 Determinant Matrix Calculator 2x2 3x3 4x4 NxN Using C language
 
 
